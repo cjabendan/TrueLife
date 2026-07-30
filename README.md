@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/truelife-logo.png" alt="TrueLife Logo" width="30%" />
+  <img src="assets/images/logo-tf.png" alt="TrueLife Logo" width="100" />
 </p>
 
-<h1 align="center">TrueLife</h1>
+<p align="center">
+  <img src="assets/images/tf-title.png" alt="TrueLife" width="200" />
+</p>
 
 <p align="center">
   <b>Share Life, Authentically</b><br>
@@ -10,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/Platform-Android-DDC84?style=flat-square&logo=react">
-  <img alt="Framework" src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Android-DDC24?style=flat-square&logo=android">
+  <img alt="Framework" src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue?style=flat-square">
   <img alt="Status" src="https://img.shields.io/badge/Status-Completed-success?style=flat-square">
 </p>
@@ -53,10 +55,10 @@ A lot of social platforms prioritize ad placement over authentic community build
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/ss-feed.png" alt="Home Feed" width="22%" style="display: inline-block; margin: 0 6px;" />
-  <img src="assets/ss-post.png" alt="Post View" width="22%" style="display: inline-block; margin: 0 6px;" />
-  <img src="assets/ss-notifications.png" alt="Comments" width="22%" style="display: inline-block; margin: 0 6px;" />
-  <img src="assets/ss-profile.png" alt="Profile" width="22%" style="display: inline-block; margin: 0 6px;" />
+  <img src="assets/images/home.png" alt="Home Feed" width="22%" style="display: inline-block; margin: 0 6px;" />
+  <img src="assets/images/posts.png" alt="Post View" width="22%" style="display: inline-block; margin: 0 6px;" />
+  <img src="assets/images/notifications.png" alt="Comments" width="22%" style="display: inline-block; margin: 0 6px;" />
+  <img src="assets/images/profile.png" alt="Profile" width="22%" style="display: inline-block; margin: 0 6px;" />
 </p>
 
 ---
@@ -81,11 +83,11 @@ The TrueLife infrastructure ensures that:
 
 ---
 
-## 📝 Notes
+## ⚠️ Project Context & Development Status**
 
-> ⚠️ **Development Status**
+> **TrueLife** was developed as a school summer project. It serves as a practical implementation derived from React Native and Expo documentation, as well as foundational mobile development tutorials. 
 >
-> The platform is actively optimized to maintain low battery usage, fast image delivery over cellular data, and quick response times across all mobile screens.
+> The platform is built to demonstrate core mobile architecture, featuring client-side image optimizations, responsive UI patterns across screen sizes, and essential social network workflows.
 
 ---
 
