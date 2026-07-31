@@ -83,7 +83,7 @@ The TrueLife infrastructure ensures that:
 
 ---
 
-## ⚠️ Project Context & Development Status**
+## ⚠️ Project Context & Development Status
 
 > **TrueLife** was developed as a school summer project. It serves as a practical implementation derived from React Native and Expo documentation, as well as foundational mobile development tutorials. 
 >
